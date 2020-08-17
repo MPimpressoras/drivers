@@ -1,4 +1,4 @@
-#### GIT de drivers, manuais e arquivos da MP Impressoras
+#### Repositório público de drivers
 </br></br>
 ### Links:
 * [Printwayy - app.printwayy.com/](app.printwayy.com/)
